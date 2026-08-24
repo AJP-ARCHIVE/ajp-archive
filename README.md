@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 Frontend developer exploring backend development and system architecture. 
 - 👧🏻 I’m currently working on: Completing the **Scrimba Fullstack Developer Path**, where I build original solo projects from design and tech requirements. My GitHub features a select number of these Scrimba solo projects.
-- ☁ AWS Certified (Cloud Practitioner + Developer Associate).
 - 📚 Gradually expanding into Next.js, databases, SQL, Python, and other backend platforms as I continue this full‑stack roadmap. 
 
 ## Tech Stack
